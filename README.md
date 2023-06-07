@@ -8,5 +8,5 @@ import javax.swing.*;
 OpenJDK 17 이상의 JDK가 필요합니다.
 
 # 개발환경
-![IntelliJ_IDEA_Icon.png](..%2F..%2F..%2FDownloads%2FIntelliJ_IDEA_Icon.png)
+![IntelliJ_IDEA_Icon](https://github.com/Jongwoo0101/Java_Swing/assets/96978536/5a531a3c-263e-4a7b-ac19-cffd89ba34c5)
 [Intellij](https://www.jetbrains.com/ko-kr/idea/)와 같은 자동완성 기능을 지원하는 최신버전의 IDE를 권장합니다.

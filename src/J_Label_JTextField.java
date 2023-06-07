@@ -30,6 +30,5 @@ public class J_Label_JTextField {
         jf.add(jt);
 
         jf.setVisible(true);
-
     }
 }

@@ -12,6 +12,5 @@ public class JFrame_Test {
         //닫기 버튼을 눌렀을 때 동작설
         jf.setVisible(true);
         //jf프레임이 보이도록 설정
-
     }
 }

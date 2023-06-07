@@ -8,6 +8,5 @@ import javax.swing.*;
 OpenJDK 17 이상의 JDK환경에서 실행하는 것을 권장합니다.
 
 # 개발환경
-[![JetBrains-Intellij-IDEA](https://github.com/Jongwoo0101/Java_Swing/assets/96978536/3a79b5c7-f6d6-481a-bf82-0be6fd676db1)](https://www.jetbrains.com/ko-kr/idea/)
-
+![JetBrains-Intellij-IDEA](https://github.com/Jongwoo0101/Java_Swing/assets/96978536/3a79b5c7-f6d6-481a-bf82-0be6fd676db1)    
 [Intellij](https://www.jetbrains.com/ko-kr/idea/)와 같은 뛰어난 자동완성 기능을 지원하는 최신버전의 IDE를 권장합니다.

@@ -5,7 +5,7 @@ import java.awt.*;
 
 public class FlowLayout_Test extends JFrame{
     public FlowLayout_Test() {
-        setTitle("Layout");
+        setTitle("FlowLayout_Test");
         setSize(350, 200);
 
         JPanel jp = new JPanel(new FlowLayout(FlowLayout.CENTER));

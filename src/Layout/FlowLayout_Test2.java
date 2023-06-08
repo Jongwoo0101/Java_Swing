@@ -15,8 +15,8 @@ public class FlowLayout_Test2 extends JFrame {
         //jp 개체 주위에 각 10만큼 공백을 설정
 
         String[] ButtonName = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "*", "0", "#"};
-        for(int i=0; i<ButtonName.length; i++) {
-            JButton jb = new JButton(ButtonName[i]);
+        for (String s : ButtonName) {
+            JButton jb = new JButton(s);
             jp.add(jb);
         }
         add(jp);

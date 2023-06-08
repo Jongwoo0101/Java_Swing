@@ -19,6 +19,6 @@ public class JButton_Test {
         jf.add(jb);
 
         jf.setVisible(true);
-
+        jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }

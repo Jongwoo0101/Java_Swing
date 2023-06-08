@@ -29,6 +29,7 @@ class FrameLayout implements ActionListener {
             jf.add(jb);
         }
         jf.setVisible(true);
+        jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 
     //클릭할 때마다 발생

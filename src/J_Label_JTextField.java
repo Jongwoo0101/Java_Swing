@@ -30,5 +30,7 @@ public class J_Label_JTextField {
         jf.add(jt);
 
         jf.setVisible(true);
+
+        jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }

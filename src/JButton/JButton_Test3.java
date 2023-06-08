@@ -31,6 +31,7 @@ class FrameLayout implements ActionListener {
         jf.setVisible(true);
     }
 
+    //클릭할 때마다 발생
     @Override
     public void actionPerformed(ActionEvent e) {
         JOptionPane.showMessageDialog(null, "이벤트 발생\n클릭한 버튼의 번호는 " + e.getActionCommand() + "입니다.");

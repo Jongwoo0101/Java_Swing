@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class J_Label_JTextField {
+public class JLabel_JTextField {
     public static void main(String[] args) {
         JFrame jf = new JFrame();
         jf.setSize(380, 180);
